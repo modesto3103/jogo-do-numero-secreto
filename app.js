@@ -1,5 +1,5 @@
 let listaNumSecretos = [];
-let chuteLimite = 10;
+let chuteLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 function exibirMensagemInicial() {
