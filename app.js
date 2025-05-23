@@ -1,5 +1,5 @@
 let listaNumSecretos = [];
-let chuteLimite = 3;
+let chuteLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 function exibirMensagemInicial() {
@@ -61,4 +61,4 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-//teste
+//teste 1
