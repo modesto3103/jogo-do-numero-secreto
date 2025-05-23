@@ -61,4 +61,4 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-//que odio desse github
+//teste
